@@ -1,0 +1,7 @@
+I, [2019-10-16T12:41:37.528469 #91379]  INFO -- default-ubuntu: -----> Setting up <default-ubuntu>...
+I, [2019-10-16T12:41:37.530066 #91379]  INFO -- default-ubuntu: Finished setting up <default-ubuntu> (0m0.00s).
+I, [2019-10-16T12:41:37.530312 #91379]  INFO -- default-ubuntu: -----> Verifying <default-ubuntu>...
+W, [2019-10-16T12:41:37.531708 #91379]  WARN -- default-ubuntu: Running command `terraform workspace select kitchen-terraform-default-ubuntu` in directory /Users/psouter/projects/infracoding-with-terraform-testcon-2019
+W, [2019-10-16T12:41:42.117413 #91379]  WARN -- default-ubuntu: DEPRECATION: InSpec Attributes are being renamed to InSpec Inputs to avoid confusion with Chef Attributes. Use :inputs in your kitchen.yml verifier config instead of :attributes.
+I, [2019-10-16T12:41:42.126980 #91379]  INFO -- default-ubuntu: default: Verifying host 34.244.206.176
+I, [2019-10-16T12:41:42.221531 #91379]  INFO -- default-ubuntu: Finished verifying <default-ubuntu> (0m4.69s).
