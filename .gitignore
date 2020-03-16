@@ -1,3 +1,6 @@
 .terraform/
 *.tfstate*
 *plan.out*
+tflint
+tflint.zip
+tflint_tmp.zip
